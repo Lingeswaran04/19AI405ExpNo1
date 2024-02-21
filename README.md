@@ -40,7 +40,7 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
-##PROGRAM
+###PROGRAM
 
 ```class VacuumCleanerAgent:
     def __init__(self):
@@ -100,5 +100,5 @@ agent.print_status()
 
 ```
 
-##OUTPUT
-https://private-user-images.githubusercontent.com/118660461/306501850-b44d897c-4547-4ce7-9c78-a116fa5f2939.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg1MDgyOTIsIm5iZiI6MTcwODUwNzk5MiwicGF0aCI6Ii8xMTg2NjA0NjEvMzA2NTAxODUwLWI0NGQ4OTdjLTQ1NDctNGNlNy05Yzc4LWExMTZmYTVmMjkzOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyMVQwOTMzMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYzA4MDYzMjFkNzY2NzlkYTVlZjlhZmE0NDkxNGE5YjAzOGNmOTgyYzQwNzZmMzliOGZjM2FlYTdmYjE0NWIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.dn6RiaQ7Js6vQq1VjleK3rckf_fTaJY_oRzjLAi6OBw
+###OUTPUT
+![image](https://github.com/Lingeswaran04/19AI405ExpNo1/assets/119103865/2706e24a-4db4-4a16-aaa0-d291587caf16)
