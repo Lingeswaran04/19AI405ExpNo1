@@ -101,4 +101,6 @@ agent.print_status()
 ```
 
 ###OUTPUT
+
+
 ![image](https://github.com/Lingeswaran04/19AI405ExpNo1/assets/119103865/2706e24a-4db4-4a16-aaa0-d291587caf16)
